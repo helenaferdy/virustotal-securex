@@ -1,0 +1,37 @@
+{
+  "hash_id": "c843a07a6e9591aca8faba03342db2df6777780769644d660214b15f0f69cdf8",
+  "weight": 6,
+  "summary": "Target is potentially malicious",
+  "details": [
+    {
+      "Engine Name": "FireEye",
+      "Category": "malicious",
+      "Result": "Generic.mg.ec2c27ce3041a2e3"
+    },
+    {
+      "Engine Name": "Cylance",
+      "Category": "malicious",
+      "Result": "Unsafe"
+    },
+    {
+      "Engine Name": "Cybereason",
+      "Category": "malicious",
+      "Result": "malicious.e3041a"
+    },
+    {
+      "Engine Name": "SentinelOne",
+      "Category": "malicious",
+      "Result": "Static AI - Suspicious PE"
+    },
+    {
+      "Engine Name": "Microsoft",
+      "Category": "malicious",
+      "Result": "Trojan:Win32/Fareit.ASP!MTB"
+    },
+    {
+      "Engine Name": "CrowdStrike",
+      "Category": "malicious",
+      "Result": "win/malicious_confidence_90% (W)"
+    }
+  ]
+}

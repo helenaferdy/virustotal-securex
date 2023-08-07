@@ -1,0 +1,37 @@
+{
+  "hash_id": "2273ae4f3ff2361d56854f73132274380a9c39bb3c7bc2236c845a2bf9e439e9",
+  "weight": 2,
+  "summary": "Target is not malicious",
+  "details": [
+    {
+      "Engine Name": "SentinelOne",
+      "Category": "type-unsupported",
+      "Result": null
+    },
+    {
+      "Engine Name": "FireEye",
+      "Category": "malicious",
+      "Result": "Application.JS.Miner.I"
+    },
+    {
+      "Engine Name": "Microsoft",
+      "Category": "malicious",
+      "Result": "Trojan:HTML/Brocoiner.N!lib"
+    },
+    {
+      "Engine Name": "Cylance",
+      "Category": "type-unsupported",
+      "Result": null
+    },
+    {
+      "Engine Name": "Cybereason",
+      "Category": "type-unsupported",
+      "Result": null
+    },
+    {
+      "Engine Name": "CrowdStrike",
+      "Category": "type-unsupported",
+      "Result": null
+    }
+  ]
+}

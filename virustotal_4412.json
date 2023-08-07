@@ -1,0 +1,37 @@
+{
+  "hash_id": "4cf9322c49adebf63311a599dc225bbcbf16a253eca59bbe1a02e4ae1d824412",
+  "weight": 6,
+  "summary": "Target is potentially malicious",
+  "details": [
+    {
+      "Engine Name": "Cylance",
+      "Category": "malicious",
+      "Result": "unsafe"
+    },
+    {
+      "Engine Name": "Cybereason",
+      "Category": "malicious",
+      "Result": "malicious.0c75d5"
+    },
+    {
+      "Engine Name": "FireEye",
+      "Category": "malicious",
+      "Result": "Generic.mg.2eb14920c75d5e73"
+    },
+    {
+      "Engine Name": "SentinelOne",
+      "Category": "malicious",
+      "Result": "Static AI - Malicious PE"
+    },
+    {
+      "Engine Name": "Microsoft",
+      "Category": "malicious",
+      "Result": "TrojanSpy:Win32/Ursnif.HP"
+    },
+    {
+      "Engine Name": "CrowdStrike",
+      "Category": "malicious",
+      "Result": "win/malicious_confidence_100% (W)"
+    }
+  ]
+}

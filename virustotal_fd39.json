@@ -1,0 +1,37 @@
+{
+  "hash_id": "465b3cb0a85e7fce403a1d5b6c189ef4d62e970afbbd5b54eed5907744dffd39",
+  "weight": 6,
+  "summary": "Target is potentially malicious",
+  "details": [
+    {
+      "Engine Name": "FireEye",
+      "Category": "malicious",
+      "Result": "Generic.mg.ceaeedc8d0b4a0b8"
+    },
+    {
+      "Engine Name": "Cylance",
+      "Category": "malicious",
+      "Result": "Unsafe"
+    },
+    {
+      "Engine Name": "Cybereason",
+      "Category": "malicious",
+      "Result": "malicious.8d0b4a"
+    },
+    {
+      "Engine Name": "Microsoft",
+      "Category": "malicious",
+      "Result": "Trojan:Win32/Sabsik.FL.B!ml"
+    },
+    {
+      "Engine Name": "SentinelOne",
+      "Category": "malicious",
+      "Result": "Static AI - Malicious PE"
+    },
+    {
+      "Engine Name": "CrowdStrike",
+      "Category": "malicious",
+      "Result": "win/malicious_confidence_70% (D)"
+    }
+  ]
+}
